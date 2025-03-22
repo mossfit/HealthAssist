@@ -37,16 +37,15 @@
 4. **Run the Application:**
 
 ```bash
-``python main.py
+  python main.py
 ```
 
-  -Open your browser and navigate to http://127.0.0.1:5000.
+Open your browser and navigate to http://127.0.0.1:5000.
 
-##Usage
+Usage
 Medical Advisory:
+ - Enter your query (e.g., "latest treatments for diabetes") into the input field to receive a detailed, context-rich advisory.
 
-  Enter your query (e.g., "latest treatments for diabetes") into the input field to receive a detailed, context-rich advisory.
+Dashboard:
 
-##Dashboard:
-
-  View recent data entries from PubMed, patient records, and drug databases on the live dashboard.
+ - View recent data entries from PubMed, patient records, and drug databases on the live dashboard.
