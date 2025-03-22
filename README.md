@@ -20,7 +20,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone <your_repository_url>
+   git clone <repository_url>
    cd health_assistant
 
 2. **Install Dependencies:**
